@@ -4,7 +4,7 @@ Este é um projeto educacional desenvolvido em Python, que exibe a imagem de um 
 
 ## 🎯 Objetivo
 
-Proporcionar uma forma divertida e interativa de aprendizagem da Língua Brasileira de Sinais (Libras), associando imagens a palavras por meio da linguagem visual.
+Proporcionar uma forma divertida e interativa de aprendizagem do alfabeto em Libras, associando imagens a palavras por meio da linguagem visual.
 
 ## 🛠 Tecnologias Utilizadas
 
